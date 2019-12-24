@@ -1,2 +1,2 @@
 initial
-add some thing
+add something
